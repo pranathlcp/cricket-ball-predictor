@@ -1,0 +1,784 @@
+name_x,identifier,name_y,unique_name,key_cricinfo,key_cricinfo_2,batting_style,bowling_style
+Tejas Baroka,c28e9f12,Tejas Baroka,Tejas Baroka,1082859,,Right hand Bat,Legbreak Googly
+SS Agarwal,b51f72a5,SS Agarwal,SS Agarwal,1079668,,Right hand Bat,Legbreak Googly
+DM Bravo,14b14cd8,DM Bravo,DM Bravo,277472,,Left hand Bat,Right arm Medium
+NB Singh,b822e99c,NB Singh,NB Singh,853259,,Right hand Bat,Right arm Medium
+AR Bawne,afe3355a,AR Bawne,AR Bawne,327123,,Right hand Bat,Right arm Offbreak
+A Choudhary,18e6906e,A Choudhary,A Choudhary,527299,,Right hand Bat,Left arm Medium
+MJ Henry,e84ac20c,MJ Henry,MJ Henry,506612,,Right hand Bat,Right arm Fast medium
+Ankit Soni,f18ba07f,Ankit Soni,Ankit Soni,1083128,,Right hand Bat,Legbreak
+Vishnu Vinod,0494fa6e,Vishnu Vinod,Vishnu Vinod,732293,,Right hand Bat,
+MA Wood,8d92a2c3,MA Wood,MA Wood,351588,,Right hand Bat,Right arm Fast
+A Dananjaya,5b16a806,A Dananjaya,A Dananjaya,574178,,Left hand Bat,"Right arm Offbreak, Legbreak"
+B Stanlake,6834d1f2,B Stanlake,B Stanlake,533042,,Left hand Bat,Right arm Fast
+RB Richardson,410e2f12,RB Richardson,RB Richardson,52810,,Right hand Bat,Right arm Medium
+CJ Dala,1cb14aa4,CJ Dala,CJ Dala,545467,,Right hand Bat,Right arm Medium
+DJM Short,1a156c88,DJM Short,DJM Short,308798,,Left hand Bat,Left arm Wrist spin
+AD Hales,92aeac25,AD Hales,AD Hales,249866,,Right hand Bat,Right arm Medium
+LE Plunkett,9a963804,LE Plunkett,LE Plunkett,19264,,Right hand Bat,Right arm Fast
+JPR Scantlebury-Searles,99ed60f8,JPR Scantlebury-Searles,JPR Scantlebury-Searles,230554,,Right hand Bat,Right arm Fast medium
+P Ray Barman,441c72ae,P Ray Barman,P Ray Barman,1159712,,Right hand Bat,Legbreak Googly
+P Chopra,8ac93ca2,P Chopra,P Chopra,500135,,Right hand Bat,Legbreak Googly
+S Midhun,ade90de7,S Midhun,S Midhun,1131619,,Right hand Bat,Legbreak Googly
+SC Kuggeleijn,fef92afc,SC Kuggeleijn,SC Kuggeleijn,539548,,Right hand Bat,Right arm Fast medium
+SD Lad,9601c534,SD Lad,SD Lad,422342,,Right hand Bat,Right arm Offbreak
+JL Denly,bdadf7da,JL Denly,JL Denly,12454,,Right hand Bat,Legbreak
+RK Bhui,b63e358a,RK Bhui,RK Bhui,642531,,Right hand Bat,Legbreak Googly
+JP Behrendorff,4933f499,JP Behrendorff,JP Behrendorff,272477,,Right hand Bat,Left arm Fast medium
+Milind Kumar,b4296080,Milind Kumar,Milind Kumar,451947,,Right hand Bat,Right arm Offbreak
+GC Viljoen,a316d663,GC Viljoen,GC Viljoen,375126,,Right hand Bat,Right arm Fast
+Y Prithvi Raj,cfa4bd2b,Y Prithvi Raj,Y Prithvi Raj,1121579,,Left hand Bat,Left arm Medium
+AJ Turner,ff1e12a0,AJ Turner,AJ Turner,500268,,Right hand Bat,Right arm Offbreak
+S Lamichhane,b410bd3d,S Lamichhane,S Lamichhane,960361,,Right hand Bat,Legbreak Googly
+H Klaasen,235c2bb6,H Klaasen,H Klaasen,436757,,Right hand Bat,Right arm Offbreak
+IS Sodhi,641ac5ff,IS Sodhi,IS Sodhi,559066,,Right hand Bat,Legbreak
+O Thomas,c6097d68,O Thomas,O Thomas,914567,,Left hand Bat,Right arm Fast
+C de Grandhomme,94d7f855,C de Grandhomme,C de Grandhomme,55395,,Right hand Bat,Right arm Medium fast
+K Khejroliya,fa2f1dde,K Khejroliya,K Khejroliya,1083033,,Left hand Bat,Left arm Medium fast
+DR Shorey,faa7365d,DR Shorey,DR Shorey,590327,,Right hand Bat,Right arm Offbreak
+HF Gurney,e412cb64,HF Gurney,HF Gurney,244639,,Right hand Bat,Left arm Fast medium
+IJ Gould,a9dfdf6c,IJ Gould,IJ Gould,13414,,Left hand Bat,
+CJ Green,19b9f399,CJ Green,CJ Green,787073,,Right hand Bat,Right arm Offbreak
+JR Philippe,39086549,JR Philippe,JR Philippe,1124282,,Right hand Bat,
+T Banton,25f7b7d6,T Banton,T Banton,877051,,Right hand Bat,
+SS Cottrell,a1d053dd,SS Cottrell,SS Cottrell,495551,,Right hand Bat,Left arm Fast medium
+AT Carey,69d03465,AT Carey,AT Carey,326434,,Left hand Bat,
+JC Archer,5574750c,JC Archer,JC Archer,669855,,Right hand Bat,Right arm Fast
+Monu Kumar,fb24e76c,Monu Kumar,Monu Kumar,694209,,Right hand Bat,Right arm Medium
+I Udana,ac5ae4af,I Udana,I Udana,328026,,Right hand Bat,Left arm Medium fast
+JL Pattinson,f752db61,JL Pattinson,JL Pattinson,272465,,Left hand Bat,Right arm Fast medium
+KMA Paul,75224f22,KMA Paul,KMA Paul,677081,,Right hand Bat,Right arm Fast medium
+P Dubey,ed5a5510,P Dubey,P Dubey,777515,,Right hand Bat,Legbreak Googly
+BA Stokes,e087956b,BA Stokes,BA Stokes,311158,,Left hand Bat,Right arm Fast medium
+Mujeeb Ur Rahman,7d92277a,Mujeeb Ur Rahman,Mujeeb Ur Rahman,974109,,Right hand Bat,Right arm Offbreak
+CR Woakes,4c5d73db,CR Woakes,CR Woakes,247235,,Right hand Bat,Right arm Fast medium
+JA Richardson,1ee08e9a,JA Richardson,JA Richardson,774223,,Right hand Bat,Right arm Fast
+Jalaj S Saxena,249abedf,Jalaj S Saxena,Jalaj S Saxena,237199,,Right hand Bat,"Right arm Offbreak, Legbreak Googly"
+LI Meriwala,d3611425,LI Meriwala,LI Meriwala,573930,,Left hand Bat,Left arm Fast medium
+Virat Singh,26d76ad9,Virat Singh,Virat Singh,720465,,Left hand Bat,Legbreak Googly
+L Ngidi,f834dcfc,L Ngidi,L Ngidi,542023,,Right hand Bat,Right arm Fast medium
+DJ Malan,ad9c32a2,DJ Malan,DJ Malan,236489,,Left hand Bat,Legbreak
+Mohammad Nabi,62af8546,Mohammad Nabi,Mohammad Nabi,25913,,Right hand Bat,Right arm Offbreak
+Akash Singh,b483905d,Akash Singh,Akash Singh,1175458,,Right hand Bat,Left arm Medium fast
+KM Asif,798cc28e,KM Asif,KM Asif,1083030,,Right hand Bat,Right arm Medium
+S Sandeep Warrier,cdc6bdba,S Sandeep Warrier,S Sandeep Warrier,592735,,Right hand Bat,Right arm Medium
+K Yadav,030f3089,K Yadav,K Yadav,1206495,,Left hand Bat,Left arm Fast medium
+SM Curran,e94915e6,SM Curran,SM Curran,662973,,Left hand Bat,Left arm Medium fast
+GD Phillips,9a46c4e5,GD Phillips,GD Phillips,823509,,Right hand Bat,Right arm Offbreak
+KA Jamieson,68c56d09,KA Jamieson,KA Jamieson,625960,,Right hand Bat,Right arm Fast medium
+JJ Roy,d1c36f5c,JJ Roy,JJ Roy,298438,,Right hand Bat,
+AU Rashid,249d60c9,AU Rashid,AU Rashid,244497,,Right hand Bat,Legbreak
+IC Porel,fdf7491e,IC Porel,IC Porel,967603,,Right hand Bat,Right arm Medium
+TK Curran,e86754b2,TK Curran,TK Curran,550235,,Right hand Bat,Right arm Fast medium
+GHS Garton,be869ccf,GHS Garton,GHS Garton,643433,,Left hand Bat,Left arm Fast
+TU Deshpande,46a9bea1,TU Deshpande,TU Deshpande,822553,,Left hand Bat,Right arm Medium
+RA Bawa,ba6b2f91,RA Bawa,RA Bawa,1292502,,Left hand Bat,Right arm Medium fast
+Anmolpreet Singh,1399b39c,Anmolpreet Singh,Anmolpreet Singh,851261,,Right hand Bat,Right arm Offbreak
+TL Seifert,4663bd23,TL Seifert,TL Seifert,625964,,Right hand Bat,
+Abdul Samad,8e514b4c,Abdul Samad,Abdul Samad,1175485,,Right hand Bat,Legbreak
+NA Saini,21d4e29b,Navdeep Saini,NA Saini,700167,,Right hand Bat,Right arm Fast
+SE Rutherford,d014d5ac,SE Rutherford,SE Rutherford,914541,,Left hand Bat,Right arm Fast medium
+AJ Tye,7c7d63a2,AJ Tye,AJ Tye,459508,,Right hand Bat,Right arm Medium fast
+DJ Willey,7f048519,DJ Willey,DJ Willey,308251,,Left hand Bat,Left arm Fast medium
+Rasikh Salam,b8527c3d,Rasikh Salam,Rasikh Salam,1161489,,Right hand Bat,Right arm Medium
+DG Nalkande,cd8d2859,DG Nalkande,DG Nalkande,1111917,,Right hand Bat,Right arm Fast medium
+Akash Deep,0a67aec0,Akash Deep,Akash Deep,1176959,,Right hand Bat,Right arm Fast medium
+Basil Thampi,871e9faf,Basil Thampi,Basil Thampi,732291,,Right hand Bat,Right arm Fast medium
+Aman Hakim Khan,378daa89,Aman Hakim Khan,Aman Hakim Khan,1254269,,Right hand Bat,Right arm Medium
+FA Allen,b52ffbbd,FA Allen,FA Allen,670013,,Right hand Bat,Slow Left arm Orthodox
+TS Mills,245c97cb,TS Mills,TS Mills,459257,,Right hand Bat,Left arm Fast
+OF Smith,23cca426,OF Smith,OF Smith,820691,,Right hand Bat,Right arm Fast medium
+P Simran Singh,9418198b,P Simran Singh,P Simran Singh,1161024,,Right hand Bat,
+VG Arora,7c3b3b78,VG Arora,VG Arora,1209292,,Right hand Bat,Right arm Fast medium
+A Manohar,0890552f,A Manohar,A Manohar,778963,,Right hand Bat,Legbreak Googly
+Anuj Rawat,c8f5f961,Anuj Rawat,Anuj Rawat,1123073,,Left hand Bat,
+DJ Mitchell,eade4650,DJ Mitchell,DJ Mitchell,381743,,Right hand Bat,Right arm Medium
+DS Manohar,b35f3ac8,DS Manohar,DS Manohar,30900,,Left hand Bat,Right arm Medium
+D Pretorius,11614d87,D Pretorius,D Pretorius,327830,,Right hand Bat,Right arm Medium fast
+SS Prabhudessai,9385de2e,SS Prabhudessai,SS Prabhudessai,1083851,,Right hand Bat,Right arm Medium
+B Sai Sudharsan,d5130a30,B Sai Sudharsan,B Sai Sudharsan,1151288,,Left hand Bat,Legbreak
+AS Roy,e4cdf230,AS Roy,AS Roy,1079839,,Left hand Bat,Slow Left arm Orthodox
+B Indrajith,ff1e68fa,B Indrajith,B Indrajith,477069,,Right hand Bat,Legbreak Googly
+Harshit Rana,77b1aa15,Harshit Rana,Harshit Rana,1312645,,Right hand Bat,Right arm Medium fast
+Shivam Mavi,c38d3503,Shivam Mavi,Shivam Mavi,1079848,,Right hand Bat,Right arm Fast medium
+Kartik Tyagi,5d2eea49,Kartik Tyagi,Kartik Tyagi,1122918,,Right hand Bat,Right arm Fast
+RV Patel,60500956,RV Patel,RV Patel,1201520,,Right hand Bat,Right arm Medium fast
+SP Jackson,acc1aeda,SP Jackson,SP Jackson,237696,,Right hand Bat,
+KS Sharma,39ed0d2f,KS Sharma,KS Sharma,1246518,,Right hand Bat,Right arm Offbreak
+C Sakariya,2cdce1be,C Sakariya,C Sakariya,1131754,,Left hand Bat,Left arm Medium fast
+HE van der Dussen,9.95E+265,HE van der Dussen,HE van der Dussen,337790,,Right hand Bat,Legbreak
+KL Nagarkoti,b4f5c2d9,KL Nagarkoti,KL Nagarkoti,1070188,,Right hand Bat,Right arm Fast
+KR Sen,2e78f685,KR Sen,KR Sen,1163695,,Right hand Bat,Right arm Fast
+KS Bharat,44a89551,KS Bharat,KS Bharat,529436,,Right hand Bat,
+A Totre,b1d7d7bc,A Totre,A Totre,961323,,,
+Chirra Ravikanthreddy,8b680f55,Chirra Ravikanthreddy,Chirra Ravikanthreddy,391442,,,
+K Kartikeya,f6d8a7ab,K Kartikeya,K Kartikeya,1159843,,Right hand Bat,"Slow Left arm Orthodox, Left arm Wrist spin"
+M Theekshana,f24c6701,M Theekshana,M Theekshana,1138316,,Right hand Bat,Right arm Offbreak
+Shakti Singh,eb90d319,Shakti Singh,Shakti Singh,33922,,Right hand Bat,Right arm Medium
+Vinod Seshan,a3357a27,Vinod Seshan,Vinod Seshan,723245,,,
+M Jansen,81c36ee9,M Jansen,M Jansen,696401,,Right hand Bat,Left arm Medium fast
+MV Saidharshan Kumar,54b6007b,MV Saidharshan Kumar,MV Saidharshan Kumar,777551,,,
+Shashank Singh,26989d80,Shashank Singh,Shashank Singh,377534,,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+V Narayan Kutty,4bacee3d,V Narayan Kutty,V Narayan Kutty,31899,,Right hand Bat,
+S Dube,a4e37e47,S Dube,S Dube,714451,,Left hand Bat,Right arm Medium
+A Badoni,872b03f7,A Badoni,A Badoni,1151270,,Right hand Bat,Right arm Offbreak
+Lalit Yadav,ad427b5c,Lalit Yadav,Lalit Yadav,930189,,Right hand Bat,Right arm Offbreak
+PBB Rajapaksa,6c882e9a,PBB Rajapaksa,PBB Rajapaksa,342619,,Left hand Bat,Right arm Medium
+Prakash Bhatt,f848ab0b,Prakash Bhatt,Prakash Bhatt,26923,,Right hand Bat,
+RD Chahar,2ed569a0,RD Chahar,RD Chahar,1064812,,Right hand Bat,Legbreak Googly
+N Pandit,4947c258,N Pandit,N Pandit,391525,,,
+R Sanjay Yadav,33ffc3dd,R Sanjay Yadav,R Sanjay Yadav,1048841,,Left hand Bat,Slow Left arm Orthodox
+T Natarajan,ce794613,T Natarajan,T Natarajan,802575,,Left hand Bat,Left arm Medium
+T Stubbs,85b3fab2,T Stubbs,T Stubbs,595978,,Right hand Bat,Right arm Offbreak
+A Tomar,aa5d8c9e,A Tomar,A Tomar,1081183,,Right hand Bat,Right arm Offbreak
+CV Varun,5b7ab5a9,CV Varun,CV Varun,1108375,,Right hand Bat,Legbreak Googly
+K Gowtham,90de905a,K Gowtham,K Gowtham,424377,,Right hand Bat,Right arm Offbreak
+RK Singh,0a509d6b,RK Singh,RK Singh,723105,,Left hand Bat,Right arm Offbreak
+VR Iyer,a24be938,VR Iyer,VR Iyer,851403,,Left hand Bat,Right arm Medium
+DP Conway,df5a6881,DP Conway,DP Conway,379140,,Left hand Bat,Right arm Medium
+M Pathirana,64839cb3,M Pathirana,M Pathirana,1194795,,Right hand Bat,Right arm Medium
+MJ Santner,e4a0deae,MJ Santner,MJ Santner,502714,,Left hand Bat,Slow Left arm Orthodox
+MM Ali,bb351c23,MM Ali,MM Ali,8917,,Left hand Bat,Right arm Offbreak
+Mukesh Choudhary,765a4731,Mukesh Choudhary,Mukesh Choudhary,1125688,,Left hand Bat,Left arm Medium
+N Jagadeesan,bd54eef5,N Jagadeesan,N Jagadeesan,1048813,,Right hand Bat,
+PH Solanki,c695b423,PH Solanki,PH Solanki,1252337,,Right hand Bat,Legbreak
+RD Gaikwad,45a43fe2,RD Gaikwad,RD Gaikwad,1060380,,Right hand Bat,Right arm Offbreak
+Simarjeet Singh,30df8c66,Simarjeet Singh,Simarjeet Singh,1159722,,Right hand Bat,Right arm Medium fast
+A Nortje,acdc62f5,A Nortje,A Nortje,481979,,Right hand Bat,Right arm Fast
+D Brevis,844e79d1,D Brevis,D Brevis,1070665,,Right hand Bat,Legbreak
+DR Sams,caf69bf7,DR Sams,DR Sams,826901,,Right hand Bat,Left arm Fast medium
+GR Sadashiv Iyer,0be62e31,GR Sadashiv Iyer,GR Sadashiv Iyer,29549,340287,Right hand Bat,
+HAS Khalid,291ded7c,HAS Khalid,HAS Khalid,30196,,Right hand Bat,Slow Left arm Orthodox
+HR Shokeen,0c9652b0,HR Shokeen,HR Shokeen,1175423,,Right hand Bat,Right arm Offbreak
+KK Ahmed,a2f46292,KK Ahmed,KK Ahmed,942645,,Right hand Bat,Left arm Medium
+M Markande,a9fd84fb,M Markande,M Markande,1081442,,Right hand Bat,Legbreak
+PP Shaw,8b3e9c7c,PP Shaw,PP Shaw,1070168,,Right hand Bat,Right arm Offbreak
+R Powell,650d5e49,R Powell,R Powell,820351,,Right hand Bat,Right arm Medium fast
+RP Meredith,64775749,RP Meredith,RP Meredith,961713,,Right hand Bat,Right arm Fast
+Ramandeep Singh,be24ead0,Ramandeep Singh,Ramandeep Singh,1079470,,Right hand Bat,Right arm Medium
+TH David,f1f99156,TH David,TH David,892749,,Right hand Bat,Right arm Offbreak
+Tilak Varma,b0482a1d,Tilak Varma,Tilak Varma,1170265,,Left hand Bat,Right arm Offbreak
+AK Markram,6a26221c,AK Markram,AK Markram,600498,,Right hand Bat,Right arm Offbreak
+Abhishek Sharma,f29185a1,Abhishek Sharma,Abhishek Sharma,1070183,1131614,Left hand Bat,Slow Left arm Orthodox
+Arshdeep Singh,244048f6,Arshdeep Singh,Arshdeep Singh,1125976,,Left hand Bat,Left arm Medium fast
+Fazalhaq Farooqi,e9c7f0d0,Fazalhaq Farooqi,Fazalhaq Farooqi,974175,,Right hand Bat,Left arm Fast medium
+Harpreet Brar,c05edf8e,Harpreet Brar,Harpreet Brar,1168641,,Left hand Bat,Slow Left arm Orthodox
+JM Bairstow,abb83e27,JM Bairstow,JM Bairstow,297433,,Right hand Bat,Right arm Medium
+JM Sharma,800d2d97,JM Sharma,JM Sharma,721867,,Right hand Bat,
+K Rabada,e62dd25d,K Rabada,K Rabada,550215,,Left hand Bat,Right arm Fast
+LS Livingstone,50c6bc2b,LS Livingstone,LS Livingstone,403902,,Right hand Bat,"Right arm Offbreak, Legbreak"
+M Shahrukh Khan,7dcb9bc9,M Shahrukh Khan,M Shahrukh Khan,719719,,Right hand Bat,Right arm Offbreak
+N Pooran,3241e3fd,N Pooran,N Pooran,604302,,Left hand Bat,Right arm Offbreak
+NT Ellis,9eb1455b,NT Ellis,NT Ellis,826915,,Right hand Bat,Right arm Fast medium
+PK Garg,bb965e9a,PK Garg,PK Garg,1070180,,Right hand Bat,Right arm Medium
+PN Mankad,663b5e34,PN Mankad,PN Mankad,956871,,Right hand Bat,Right arm Medium
+R Shepherd,c5aef772,R Shepherd,R Shepherd,677077,,Right hand Bat,Right arm Fast medium
+RA Tripathi,77255a9e,RA Tripathi,RA Tripathi,446763,,Right hand Bat,Right arm Medium
+Umran Malik,81c08fa3,Umran Malik,Umran Malik,1246528,,Right hand Bat,Right arm Fast
+Washington Sundar,f19ccfad,Washington Sundar,Washington Sundar,719715,,Left hand Bat,Right arm Offbreak
+AS Joseph,b0946605,AS Joseph,AS Joseph,670031,,Right hand Bat,Right arm Fast
+Avesh Khan,eef2536f,Avesh Khan,Avesh Khan,694211,,Right hand Bat,Right arm Fast medium
+E Lewis,0ebfb1ad,E Lewis,E Lewis,431901,,Left hand Bat,
+MA Gough,76752ac8,MA Gough,MA Gough,13413,,Right hand Bat,Right arm Offbreak
+Mohsin Khan (2),c33d8116,Mohsin Khan,Mohsin Khan (2),1132005,,Left hand Bat,Left arm Medium fast
+PVD Chameera,327b58d3,PVD Chameera,PVD Chameera,552152,,Right hand Bat,Right arm Fast
+Ravi Bishnoi,df064e1a,Ravi Bishnoi,Ravi Bishnoi,1175441,,Right hand Bat,Legbreak Googly
+JR Hazlewood,03806cf8,JR Hazlewood,JR Hazlewood,288284,,Left hand Bat,Right arm Fast medium
+MK Lomror,da934ee8,MK Lomror,MK Lomror,853265,,Left hand Bat,Slow Left arm Orthodox
+Mohammed Siraj,2f49c897,Mohammed Siraj,Mohammed Siraj,940973,,Right hand Bat,Right arm Fast
+PWH de Silva,a97c8ec2,PWH de Silva,PWH de Silva,784379,,Right hand Bat,Legbreak
+RM Patidar,c740ea83,RM Patidar,RM Patidar,823703,,Right hand Bat,Right arm Offbreak
+Shahbaz Ahmed,f9e6e7ef,Shahbaz Ahmed,Shahbaz Ahmed,1159711,,Left hand Bat,Slow Left arm Orthodox
+D Padikkal,2c25d4f5,D Padikkal,D Padikkal,1119026,,Left hand Bat,Right arm Offbreak
+LH Ferguson,2f9d0389,LH Ferguson,LH Ferguson,493773,,Right hand Bat,Right arm Fast
+M Prasidh Krishna,85e0cf10,M Prasidh Krishna,M Prasidh Krishna,917159,,Right hand Bat,Right arm Fast medium
+OC McCoy,529eb9e0,OC McCoy,OC McCoy,906783,,Left hand Bat,Left arm Fast medium
+R Parag,04a418e8,R Parag,R Parag,1079434,,Right hand Bat,Legbreak
+R Sai Kishore,c7a995d3,R Sai Kishore,R Sai Kishore,1048739,,Left hand Bat,Slow Left arm Orthodox
+Rashid Khan,5f547c8b,Rashid Khan,Rashid Khan,793463,,Right hand Bat,Legbreak Googly
+SO Hetmyer,48a1d7b7,SO Hetmyer,SO Hetmyer,670025,,Left hand Bat,
+Shubman Gill,b4b99816,Shubman Gill,Shubman Gill,1070173,,Right hand Bat,Right arm Offbreak
+YBK Jaiswal,6c19c6e5,YBK Jaiswal,YBK Jaiswal,1151278,,Left hand Bat,Legbreak
+Yash Dayal,7210d461,Yash Dayal,Yash Dayal,1159720,,Right hand Bat,Left arm Medium fast
+AA Noffke,b69e69ed,AA Noffke,AA Noffke,6938,,Right hand Bat,Right arm Fast medium
+P Dharmani,eaa90ab4,P Dharmani,P Dharmani,28067,,Right hand Bat,
+F Gomes,3134d083,F Gomes,F Gomes,28845,,,
+DS Lehmann,53fe6ee4,DS Lehmann,DS Lehmann,6285,,Left hand Bat,Slow Left arm Orthodox
+MA Khote,0d232ffd,MA Khote,MA Khote,30220,,Right hand Bat,Right arm Medium
+VD Nerurkar,8647d51d,VD Nerurkar,VD Nerurkar,265853,,,
+SK Porel,350a07a7,SK Porel,SK Porel,32897,,Right hand Bat,Right arm Fast medium
+SB Joshi,670709ec,SB Joshi,SB Joshi,29725,,Left hand Bat,Slow Left arm Orthodox
+D Kalyankrishna,94bc776b,D Kalyankrishna,D Kalyankrishna,30719,,Right hand Bat,Right arm Medium fast
+UL Dubey,b2ef796b,UL Dubey,UL Dubey,28116,,,
+S Chanderpaul,881a9bdd,S Chanderpaul,S Chanderpaul,51469,,Left hand Bat,Legbreak
+P Amarnath,6ad3a659,P Amarnath,P Amarnath,290629,,Right hand Bat,Right arm Medium
+RR Sarwan,36d33dd0,RR Sarwan,RR Sarwan,52969,,Right hand Bat,Legbreak
+Jasbir Singh,6043dfe7,Jasbir Singh,Jasbir Singh,29681,,Right hand Bat,Slow Left arm Orthodox
+T Taibu,75de770f,T Taibu,T Taibu,55805,,Right hand Bat,Right arm Medium
+MS Mahal,50a7e89b,MS Mahal,MS Mahal,30886,,Right hand Bat,Legbreak
+Younis Khan,33cb3411,Younis Khan,Younis Khan,43652,,Right hand Bat,"Right arm Medium, Legbreak"
+RV Pawar,c9d33ef5,RV Pawar,RV Pawar,32305,,Left hand Bat,Slow Left arm Orthodox
+Abdur Razzak,888e32bf,Abdur Razzak,Abdur Razzak,56283,,Left hand Bat,Slow Left arm Orthodox
+DT Patil,f48cf4da,DT Patil,DT Patil,32389,,Right hand Bat,
+J Arunkumar,f663ef00,J Arunkumar,J Arunkumar,26291,,Right hand Bat,Right arm Offbreak
+DJ Thornely,7d3937ed,DJ Thornely,DJ Thornely,8002,,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+DNT Zoysa,e0351c86,DNT Zoysa,DNT Zoysa,51050,,Left hand Bat,Left arm Fast medium
+H Das,0ed0cdbf,H Das,H Das,236810,,Right hand Bat,
+S Banerjee,abde8fb9,S Banerjee,S Banerjee,26854,,,
+Shoaib Akhtar,10a91f35,Shoaib Akhtar,Shoaib Akhtar,42655,,Right hand Bat,Right arm Fast
+Shoaib Malik,64c34cd0,Shoaib Malik,Shoaib Malik,42657,,Right hand Bat,Right arm Offbreak
+AK Mitra,4e11e004,AK Mitra,AK Mitra,31320,,Right hand Bat,Right arm Offbreak
+FM Engineer,6529ee42,FM Engineer,FM Engineer,28624,,Right hand Bat,Legbreak
+Mohammad Hafeez,9ab63e7b,Mohammad Hafeez,Mohammad Hafeez,41434,,Right hand Bat,Right arm Offbreak
+U Kaul,622cc511,U Kaul,U Kaul,30235,,Left hand Bat,
+VS Yeligati,38f2c66c,VS Yeligati,VS Yeligati,307448,,Right hand Bat,Right arm Offbreak
+Gagandeep Singh,890de8cb,Gagandeep Singh,Gagandeep Singh,28758,,Right hand Bat,Right arm Medium fast
+HS Sekhon,58b66172,HS Sekhon,HS Sekhon,33893,,Right hand Bat,Right arm Offbreak
+LPC Silva,1be70c88,LPC Silva,LPC Silva,50431,,Right hand Bat,Legbreak
+A Nel,2503e881,A Nel,A Nel,46569,,Right hand Bat,Right arm Fast medium
+B Geeves,50758325,B Geeves,B Geeves,5472,,Right hand Bat,Right arm Fast medium
+AV Jayaprakash,bde6e9ef,AV Jayaprakash,AV Jayaprakash,29691,,,
+D Salunkhe,0264c10e,D Salunkhe,D Salunkhe,278482,,Right hand Bat,Legbreak
+Misbah-ul-Haq,7eae4418,Misbah-ul-Haq,Misbah-ul-Haq,41378,,Right hand Bat,Legbreak
+I Shivram,85143097,I Shivram,I Shivram,35290,,,
+SJ Davis,bc71b0b2,SJ Davis,SJ Davis,4922,,,
+Salman Butt,4d6d6280,Salman Butt,Salman Butt,42683,,Left hand Bat,Right arm Offbreak
+Umar Gul,16dfcc19,Umar Gul,Umar Gul,43524,,Right hand Bat,Right arm Fast medium
+CH Lloyd,5b445db0,CH Lloyd,CH Lloyd,52345,,Left hand Bat,Right arm Medium
+MSS Ranawat,8048c698,MSS Ranawat,MSS Ranawat,33614,,,
+SM Pollock,88fccd6c,SM Pollock,SM Pollock,46774,,Right hand Bat,Right arm Fast medium
+AS Yadav,b9be6507,AS Yadav,AS Yadav,36110,,Right hand Bat,Right arm Offbreak
+DP Vijaykumar,acd4f5dc,DP Vijaykumar,DP Vijaykumar,272949,,Right hand Bat,Right arm Medium
+GA Pratapkumar,cf7c5778,GA Pratapkumar,GA Pratapkumar,32299,,Right hand Bat,Right arm Offbreak
+PM Sarvesh Kumar,4b4d1957,PM Sarvesh Kumar,PM Sarvesh Kumar,327127,,Right hand Bat,Right arm Medium
+SP Fleming,eea6b7f1,SP Fleming,SP Fleming,37000,,Left hand Bat,
+Shahid Afridi,0dc00542,Shahid Afridi,Shahid Afridi,42639,,Right hand Bat,Legbreak Googly
+Talat Ali,1df4131e,Talat Ali,Talat Ali,43273,,Right hand Bat,Right arm Medium
+GD McGrath,ee7d0c82,GD McGrath,GD McGrath,6565,,Right hand Bat,Right arm Fast medium
+Mohammad Asif,e03b66ec,Mohammad Asif,Mohammad Asif,41411,,Left hand Bat,Right arm Fast medium
+CK Kapugedera,cfad138c,CK Kapugedera,CK Kapugedera,209457,,Right hand Bat,Right arm Medium
+Kamran Akmal,ff077124,Kamran Akmal,Kamran Akmal,41028,,Right hand Bat,
+M Ntini,20a941bb,M Ntini,M Ntini,46592,,Right hand Bat,Right arm Fast
+MR Singh,5d58ac60,MR Singh,MR Singh,34051,,,
+S Vidyut,756389bd,S Vidyut,S Vidyut,35619,,Left hand Bat,Slow Left arm Orthodox
+Sohail Tanvir,64d43928,Sohail Tanvir,Sohail Tanvir,43265,,Left hand Bat,Left arm Medium fast
+A Chopra,e249fdaa,A Chopra,A Chopra,27639,,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+A Flintoff,ddc0828d,A Flintoff,A Flintoff,12856,,Right hand Bat,Right arm Fast medium
+SB Bangar,0604ef16,SB Bangar,SB Bangar,27225,,Right hand Bat,Right arm Medium fast
+RR Bose,21ac077a,RR Bose,RR Bose,27572,,Right hand Bat,Right arm Fast medium
+T Kohli,40caa465,T Kohli,T Kohli,331855,,Right hand Bat,Right arm Medium
+GR Napier,611926bc,GR Napier,GR Napier,17991,,Right hand Bat,Right arm Medium
+R Bishnoi,4d5a1617,R Bishnoi,R Bishnoi,236766,,Right hand Bat,Right arm Medium fast
+FH Edwards,a7c226e1,FH Edwards,FH Edwards,51782,,Right hand Bat,Right arm Fast
+TM Srivastava,a76d10ba,TM Srivastava,TM Srivastava,35401,,Left hand Bat,Right arm Medium
+MR Benson,790e14d3,MR Benson,MR Benson,9074,,Left hand Bat,Right arm Offbreak
+D du Preez,d7a57f75,D du Preez,D du Preez,44938,,Right hand Bat,Right arm Fast medium
+W Jaffer,619aa81f,W Jaffer,W Jaffer,29646,,Right hand Bat,Right arm Offbreak
+TH Wijewardene,6a6be119,TH Wijewardene,TH Wijewardene,50987,,Left hand Bat,Left arm Medium fast
+L Ronchi,0fa5042b,L Ronchi,L Ronchi,7502,,Right hand Bat,
+SM Harwood,63bff7f9,SM Harwood,SM Harwood,5605,,Right hand Bat,Right arm Fast medium
+MN van Wyk,710dd98c,MN van Wyk,MN van Wyk,47711,,Right hand Bat,Slow Left arm Orthodox
+LA Carseldine,d872f52a,LA Carseldine,LA Carseldine,4541,,Left hand Bat,Left arm Medium
+AN Ghosh,7023d182,AN Ghosh,AN Ghosh,220435,,Right hand Bat,Right arm Medium
+RR Raje,5f4e9e8f,RR Raje,RR Raje,290713,,Right hand Bat,Right arm Fast medium
+Shoaib Ahmed,8a668774,Shoaib Ahmed,Shoaib Ahmed,317709,,Right hand Bat,Right arm Fast medium
+C Nanda,f24ca2ba,C Nanda,C Nanda,32093,,Right hand Bat,Legbreak
+S George,6d9e5a54,S George,S George,45389,,,
+Mashrafe Mortaza,e186f49c,Mashrafe Mortaza,Mashrafe Mortaza,56007,,Right hand Bat,Right arm Fast medium
+GAV Baxter,cb4b3ab0,GAV Baxter,GAV Baxter,36337,,,
+Niraj Patel,a2870fb7,NK Patel,Niraj Patel,32240,,Left hand Bat,
+RJ Quiney,23ac69e6,RJ Quiney,RJ Quiney,211854,,Left hand Bat,Right arm Medium
+SS Sarkar,caa89a48,SS Sarkar,SS Sarkar,34402,,Right hand Bat,Right arm Medium
+SS Shaikh,5f5d3ad4,SS Shaikh,SS Shaikh,377437,,Right hand Bat,Right arm Medium
+T Henderson,0a4ebc61,T Henderson,T Henderson,45434,,Right hand Bat,Right arm Fast medium
+Yashpal Singh,297b26da,Yashpal Singh,Yashpal Singh,36130,,Right hand Bat,Right arm Medium
+EC Hendrikse,3f2996c9,EC Hendrikse,EC Hendrikse,45688,,,
+SM Katich,fdedb37c,SM Katich,SM Katich,6128,,Left hand Bat,Left arm Wrist spin
+WA Mota,3dba85c2,WA Mota,WA Mota,31041,,Right hand Bat,Right arm Medium
+Mohammad Ashraful,2bb09eb2,Mohammad Ashraful,Mohammad Ashraful,55988,,Right hand Bat,"Right arm Offbreak, Legbreak"
+RA Shaikh,7c390b03,RA Shaikh,RA Shaikh,279460,,Left hand Bat,Left arm Medium
+MW Brown,d83d7796,MW Brown,MW Brown,44397,,,
+IL Howell,c1cd91c3,IL Howell,IL Howell,45454,,Left hand Bat,Left arm Medium
+KH Hurter,bda8cca8,KH Hurter,KH Hurter,45462,,,
+ZTA Ndamane,545cc6db,ZTA Ndamane,ZTA Ndamane,46669,,,
+A Uniyal,fdcb08c2,A Uniyal,A Uniyal,35586,,Left hand Bat,Left arm Medium
+YA Abdulla,4353bba5,YA Abdulla,YA Abdulla,224367,,Left hand Bat,Left arm Fast medium
+RS Gavaskar,9ff100a6,RS Gavaskar,RS Gavaskar,28792,,Left hand Bat,Slow Left arm Orthodox
+DR Martyn,69762509,DR Martyn,DR Martyn,6513,,Right hand Bat,Right arm Medium
+Yashpal Sharma,e22d7ccb,Yashpal Sharma,Yashpal Sharma,36075,,Right hand Bat,Right arm Medium
+C Ganapathy,798934ea,C Ganapathy,C Ganapathy,28764,,Right hand Bat,Right arm Medium
+KAJ Roach,78eb4223,KAJ Roach,KAJ Roach,230553,,Right hand Bat,Right arm Fast medium
+MB Parmar,86ae8ef2,MB Parmar,MB Parmar,240734,,Right hand Bat,Right arm Offbreak
+Jaskaran Singh,d7b3a420,Jaskaran Singh,Jaskaran Singh,376102,,Right hand Bat,Right arm Medium
+AA Bilakhia,bff458c6,AA Bilakhia,AA Bilakhia,26946,,Right hand Bat,Right arm Medium
+T Thushara,b2ae53f5,T Thushara,T Thushara,49677,,Left hand Bat,Left arm Fast medium
+AB Barath,d3a3e82d,AB Barath,AB Barath,274926,,Right hand Bat,Right arm Offbreak
+MF Maharoof,ab89348d,MF Maharoof,MF Maharoof,49638,,Right hand Bat,Right arm Fast medium
+AP Dole,dbc50253,AP Dole,AP Dole,236694,,Right hand Bat,Right arm Medium fast
+ST Jayasuriya,f233bbb4,ST Jayasuriya,ST Jayasuriya,49209,,Left hand Bat,Slow Left arm Orthodox
+VM Bandiwadekar,e236db6b,VM Bandiwadekar,VM Bandiwadekar,281112,,,
+C Madan,2eeb4370,C Madan,C Madan,31104,,Right hand Bat,
+K Sharma,661b0266,K Sharma,K Sharma,30012,,Right hand Bat,Slow Left arm Orthodox
+RS Sodhi,a3ecf01f,RS Sodhi,RS Sodhi,34078,,Right hand Bat,Right arm Medium
+GR Viswanath,9333bc07,GR Viswanath,GR Viswanath,35712,,Right hand Bat,Legbreak
+AC Voges,864c199e,AC Voges,AC Voges,8119,,Right hand Bat,Slow Left arm Orthodox
+JM Kemp,6581d753,JM Kemp,JM Kemp,45797,,Right hand Bat,Right arm Fast medium
+K Goel,a1f1829d,K Goel,K Goel,28997,,Left hand Bat,Right arm Offbreak
+S Tyagi,c24a2c5d,S Tyagi,S Tyagi,317784,,Right hand Bat,Right arm Medium
+VRV Singh,034b4b7d,VRV Singh,VRV Singh,35281,,Right hand Bat,Right arm Medium fast
+PD Collingwood,a386e91b,PD Collingwood,PD Collingwood,10772,,Right hand Bat,Right arm Medium
+WPUJC Vaas,bcce309e,WPUJC Vaas,WPUJC Vaas,50804,,Left hand Bat,Left arm Fast medium
+BG Jerling,2.65E+45,BG Jerling,BG Jerling,45726,,,
+R Shankar,82f0b62e,R Shankar,R Shankar,277744,,,
+SE Bond,4f629497,SE Bond,SE Bond,36326,,Right hand Bat,Right arm Fast
+B Sumanth,f4f0fafd,B Sumanth,B Sumanth,253798,,Right hand Bat,Right arm Medium fast
+DJ Harper,0ec08b27,DJ Harper,DJ Harper,5578,,Right hand Bat,
+A Kumble,0c2730df,A Kumble,A Kumble,30176,,Right hand Bat,Legbreak Googly
+Anirudh Singh,7bb62642,Anirudh Singh,Anirudh Singh,26252,,Left hand Bat,Right arm Medium
+CRD Fernando,342d8ade,CRD Fernando,CRD Fernando,48835,,Right hand Bat,Right arm Fast medium
+ML Hayden,d8699ab7,ML Hayden,ML Hayden,5616,,Left hand Bat,Right arm Medium
+SN Bandekar,350528bb,SN Bandekar,SN Bandekar,26846,,,
+NJ Rimmington,6042bf26,NJ Rimmington,NJ Rimmington,7443,,Right hand Bat,Right arm Fast medium
+SB Styris,57efa3be,SB Styris,SB Styris,38407,,Right hand Bat,Right arm Medium
+R Ninan,ce4cc4d5,R Ninan,R Ninan,353669,,Right hand Bat,Right arm Offbreak
+S Venkataraghavan,12453319,S Venkataraghavan,S Venkataraghavan,35656,,Right hand Bat,Right arm Offbreak
+AG Paunikar,3a02626a,AG Paunikar,AG Paunikar,324444,,Right hand Bat,
+SA Asnodkar,ae091d39,SA Asnodkar,SA Asnodkar,26782,,Right hand Bat,Right arm Offbreak
+Joginder Sharma,9f961c14,Joginder Sharma,Joginder Sharma,29976,,Right hand Bat,Right arm Fast medium
+BJ Haddin,b0c772ee,BJ Haddin,BJ Haddin,5560,,Right hand Bat,
+VVS Laxman,de8cce37,VVS Laxman,VVS Laxman,30750,,Right hand Bat,Right arm Offbreak
+Kamran Khan,6ef60d3a,Kamran Khan,Kamran Khan,391121,,Left hand Bat,Left arm Medium fast
+TD Paine,5748e866,TD Paine,TD Paine,7252,,Right hand Bat,Right arm Medium
+AL Hill,4165ced0,AL Hill,AL Hill,37274,,,
+B Akhil,af7dadf7,B Akhil,B Akhil,26206,,Right hand Bat,Right arm Medium fast
+NL McCullum,5673a3fc,NL McCullum,NL McCullum,37749,,Right hand Bat,Right arm Offbreak
+GC Smith,72861603,GC Smith,GC Smith,47270,,Left hand Bat,Right arm Offbreak
+JE Taylor,4180d897,JE Taylor,JE Taylor,53191,,Right hand Bat,Right arm Fast
+I Malhotra,943fd425,I Malhotra,I Malhotra,31088,,Right hand Bat,Right arm Medium fast
+L Ablish,8b9704ae,L Ablish,L Ablish,26236,,Right hand Bat,Right arm Medium fast
+Sunny Singh,30e37810,Sunny Singh,Sunny Singh,35282,,Right hand Bat,Right arm Medium fast
+S Randiv,f5f18a18,S Randiv,S Randiv,50438,,Right hand Bat,Right arm Offbreak
+M Klinger,b970a03f,M Klinger,M Klinger,6161,,Right hand Bat,
+SB Wagh,dddca1d6,SB Wagh,SB Wagh,279552,,Left hand Bat,Left arm Medium fast
+AA Kazi,16605a1b,AA Kazi,AA Kazi,422106,,Left hand Bat,Slow Left arm Orthodox
+AS Raut,c69a7b5c,AS Raut,AS Raut,230593,,Right hand Bat,Legbreak Googly
+MV Boucher,f3cb53a1,MV Boucher,MV Boucher,44111,,Right hand Bat,Right arm Medium
+MJ Lumb,11df3dc8,MJ Lumb,MJ Lumb,16406,,Left hand Bat,Right arm Medium
+AM Salvi,260fd380,AM Salvi,AM Salvi,34264,,Right hand Bat,Right arm Medium
+S Sriram,64a4c383,S Sriram,S Sriram,34118,,Left hand Bat,Slow Left arm Orthodox
+TR Birt,d2d4bb0a,TR Birt,TR Birt,4292,,Left hand Bat,Right arm Medium
+FY Fazal,c15e2193,FY Fazal,FY Fazal,28671,,Left hand Bat,Right arm Medium
+ND Doshi,6ec424a9,ND Doshi,ND Doshi,12440,,Right hand Bat,Slow Left arm Orthodox
+P Prasanth,ddb00822,P Prasanth,P Prasanth,32211,,Left hand Bat,Slow Left arm Orthodox
+S Sohal,3fca55af,S Sohal,S Sohal,228943,,Right hand Bat,Legbreak
+CK Langeveldt,d1c94b25,CK Langeveldt,CK Langeveldt,45963,,Right hand Bat,Right arm Fast medium
+JJ van der Wath,6821ac10,JJ van der Wath,JJ van der Wath,47693,,Right hand Bat,Right arm Medium fast
+SJ Srivastava,2049f3a0,SJ Srivastava,SJ Srivastava,34245,,Right hand Bat,Left arm Fast medium
+Y Gnaneswara Rao,bae11797,Y Gnaneswara Rao,Y Gnaneswara Rao,28830,,Right hand Bat,Right arm Medium
+A Symonds,bd77eb62,A Symonds,A Symonds,7702,,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+PR Shah,0aadc906,PR Shah,PR Shah,34282,,Right hand Bat,
+SK Warne,bb18be76,SK Warne,SK Warne,8166,,Right hand Bat,Legbreak Googly
+AM Saheba,883e3818,AM Saheba,AM Saheba,34544,,Right hand Bat,
+KH Devdhar,62e07f92,KH Devdhar,KH Devdhar,340063,,Right hand Bat,
+SL Shastri,53ef012d,SL Shastri,SL Shastri,33977,,Right hand Bat,Slow Left arm Orthodox
+A Chaudhary,ffead9c2,A Chaudhary,A Chaudhary,307813,,,
+CA Ingram,c995d726,CA Ingram,CA Ingram,45705,,Left hand Bat,Legbreak
+JR Hopes,2.50E+166,JR Hopes,JR Hopes,5702,,Right hand Bat,Right arm Medium
+MS Wade,afa7e784,MS Wade,MS Wade,230193,,Left hand Bat,Right arm Medium
+RB Tiffin,89087a0d,RB Tiffin,RB Tiffin,55795,,Right hand Bat,
+SS Mundhe,0af3426f,SS Mundhe,SS Mundhe,279862,,Right hand Bat,Right arm Medium
+K Hariharan,2386ccff,K Hariharan,K Hariharan,29271,,,
+RE Koertzen,0265fab2,RE Koertzen,RE Koertzen,45830,,,
+D Govindjee,8b4c4069,D Govindjee,D Govindjee,45356,,Left hand Bat,Slow Left arm Orthodox
+RW Price,67af6f81,RW Price,RW Price,55698,,Right hand Bat,Slow Left arm Orthodox
+PR Reiffel,c9354f29,PR Reiffel,PR Reiffel,7326,,Right hand Bat,Right arm Fast medium
+VN Kulkarni,0b126008,VN Kulkarni,VN Kulkarni,30302,,,
+DAJ Bracewell,2e9fdf9b,DAJ Bracewell,DAJ Bracewell,362541,,Right hand Bat,Right arm Fast medium
+RR Bhatkal,7d3720ba,RR Bhatkal,RR Bhatkal,27150,,Right hand Bat,Right arm Medium
+Premdip Chatterjee,489fb760,Premdip Chatterjee,Premdip Chatterjee,560278,,,
+M Kaif,d84378a4,M Kaif,M Kaif,29990,,Right hand Bat,Right arm Offbreak
+DJ Jacobs,a84468fe,DJ Jacobs,DJ Jacobs,45782,,Right hand Bat,Right arm Medium
+T Mishra,c9cac448,T Mishra,T Mishra,24790,,Right hand Bat,Right arm Fast medium
+BK Ravi,ff8c3cfb,BK Ravi,BK Ravi,30712,,Right hand Bat,Left arm Medium
+DE Bollinger,45c2196c,DE Bollinger,DE Bollinger,4508,,Left hand Bat,Left arm Fast medium
+CJ McKay,94eac556,CJ McKay,CJ McKay,6903,,Right hand Bat,Right arm Fast medium
+SD Ranade,369c85c1,SD Ranade,SD Ranade,33079,,,
+AC Blizzard,1efb8a28,AC Blizzard,AC Blizzard,4498,,Left hand Bat,Left arm Medium
+S Dua,f1375866,S Dua,S Dua,28115,,,
+KMDN Kulasekara,469ea22b,KMDN Kulasekara,KMDN Kulasekara,49535,,Right hand Bat,Right arm Fast medium
+IR Jaggi,dded65e7,IR Jaggi,IR Jaggi,279554,,Right hand Bat,Legbreak Googly
+RE Levi,18c78b11,RE Levi,RE Levi,46148,,Right hand Bat,Right arm Medium
+R Subramanian,7c32b886,R Subramanian,R Subramanian,34132,,,
+A Singh,5b040b81,A Singh,A Singh,26789,,Right hand Bat,Right arm Medium fast
+DL Vettori,d7c6af50,DL Vettori,DL Vettori,38710,,Left hand Bat,Slow Left arm Orthodox
+RJ Peterson,26ff4c29,RJ Peterson,RJ Peterson,46750,,Left hand Bat,Slow Left arm Orthodox
+AUK Pathan,3ae3f034,AUK Pathan,AUK Pathan,430401,,Right hand Bat,Right arm Medium
+DJ Harris,39f82db3,DJ Harris,DJ Harris,5583,,Right hand Bat,Right arm Medium
+RR Powar,5d096f3d,RR Powar,RR Powar,32391,,Right hand Bat,Right arm Offbreak
+Pankaj Singh,e32d22f6,Pankaj Singh,Pankaj Singh,32973,,Right hand Bat,Right arm Medium fast
+AC Thomas,b552a935,AC Thomas,AC Thomas,47569,,Right hand Bat,Right arm Fast medium
+MD Mishra,6afb26d6,MD Mishra,MD Mishra,31028,,Right hand Bat,Right arm Offbreak
+Y Nagar,662c47a6,Y Nagar,Y Nagar,317786,,Right hand Bat,Right arm Offbreak
+AA Jhunjhunwala,2815fe50,AA Jhunjhunwala,AA Jhunjhunwala,29702,,Right hand Bat,Right arm Offbreak
+B Vij,470050ff,B Vij,B Vij,35796,,Right hand Bat,Slow Left arm Orthodox
+TP Sudhindra,2f3817ce,TP Sudhindra,TP Sudhindra,34139,,Left hand Bat,Right arm Fast
+HH Gibbs,e1d1b294,HH Gibbs,HH Gibbs,45224,,Right hand Bat,Right arm Bowler
+N Saini,addbde6c,N Saini,N Saini,274785,,Right hand Bat,
+VY Mahesh,93a17209,VY Mahesh,VY Mahesh,31732,,Right hand Bat,Right arm Medium fast
+R Risodkar,3de870ce,R Risodkar,R Risodkar,33176,,,
+SP Goswami,541f85c9,SP Goswami,SP Goswami,302579,,Left hand Bat,
+SD Chitnis,facb9086,SD Chitnis,SD Chitnis,337916,,Right hand Bat,Right arm Offbreak
+SK Tarapore,62a824b4,SK Tarapore,SK Tarapore,35314,,Right hand Bat,Legbreak
+AP Majumdar,f4cb4f53,AP Majumdar,AP Majumdar,31750,,Right hand Bat,Legbreak Googly
+CJ Ferguson,9b4935c8,CJ Ferguson,CJ Ferguson,5236,,Right hand Bat,Right arm Medium
+Harpreet Singh,28c78fb3,Harpreet Singh,Harpreet Singh,340854,,Left hand Bat,Right arm Medium
+JD Ryder,91ffa6c6,JD Ryder,JD Ryder,38373,,Left hand Bat,Right arm Medium
+MJ Clarke,f842c2cf,MJ Clarke,MJ Clarke,4578,,Right hand Bat,Slow Left arm Orthodox
+SC Ganguly,725529bc,SC Ganguly,SC Ganguly,28779,,Left hand Bat,Right arm Medium
+KP Appanna,d92e42f5,KP Appanna,KP Appanna,269170,,Right hand Bat,Slow Left arm Orthodox
+P Parameswaran,0c432afb,P Parameswaran,P Parameswaran,279562,,Right hand Bat,Left arm Medium
+V Pratap Singh,d718440b,V Pratap Singh,V Pratap Singh,528967,,Right hand Bat,Right arm Medium
+NA Patwardhan,e6ef687d,NA Patwardhan,NA Patwardhan,32213,,Right hand Bat,
+JEC Franklin,cf73ad76,JEC Franklin,JEC Franklin,37004,,Left hand Bat,Left arm Medium
+Sunny Gupta,ee3dfa89,Sunny Gupta,Sunny Gupta,271315,,Right hand Bat,Right arm Offbreak
+BR Doctrove,cbebf805,BR Doctrove,BR Doctrove,51662,,Right hand Bat,
+JDP Oram,3eac9d95,JDP Oram,JDP Oram,38062,,Left hand Bat,Right arm Fast medium
+AL Menaria,8291f939,AL Menaria,AL Menaria,371150,,Left hand Bat,Slow Left arm Orthodox
+MN Samuels,f846de6a,MN Samuels,MN Samuels,52983,,Right hand Bat,Right arm Offbreak
+Harmeet Singh (2),0bf15e52,Harmeet Singh,Harmeet Singh (2),422847,,Left hand Bat,Slow Left arm Orthodox
+MDKJ Perera,f21043a5,MDKJ Perera,MDKJ Perera,300631,,Left hand Bat,
+DT Christian,2a2e6343,DT Christian,DT Christian,4864,,Right hand Bat,Right arm Fast medium
+DB Ravi Teja,b720a5d6,DB Ravi Teja,DB Ravi Teja,237701,,Right hand Bat,Legbreak Googly
+RJ Harris,12eddf28,RJ Harris,RJ Harris,5779,,Right hand Bat,Right arm Fast
+AB McDonald,16043342,AB McDonald,AB McDonald,6553,,Right hand Bat,Right arm Fast medium
+AD Mascarenhas,3edb58fc,AD Mascarenhas,AD Mascarenhas,16932,,Right hand Bat,Right arm Fast medium
+PC Valthaty,25eeb281,PC Valthaty,PC Valthaty,35630,,Right hand Bat,Right arm Medium
+RT Ponting,7d415ea5,RT Ponting,RT Ponting,7133,,Right hand Bat,Right arm Medium
+X Thalaivan Sargunam,1763bc6c,X Thalaivan Sargunam,X Thalaivan Sargunam,319744,,Right hand Bat,Right arm Offbreak
+TM Dilshan,5bdcdb72,TM Dilshan,TM Dilshan,48472,,Right hand Bat,Right arm Offbreak
+DP Nannes,c404f58a,DP Nannes,DP Nannes,6981,,Right hand Bat,Left arm Fast
+A Mukund,6165bca6,A Mukund,A Mukund,302582,,Left hand Bat,Legbreak Googly
+B Lee,dd09ff8e,B Lee,B Lee,6278,,Right hand Bat,Right arm Fast
+Subroto Das,e66066be,Subroto Das,Subroto Das,28318,,Right hand Bat,
+TL Suman,aaa1b522,TL Suman,TL Suman,34281,,Right hand Bat,Right arm Offbreak
+AS Pathania,bf6c251d,AS Pathania,AS Pathania,32272,,Right hand Bat,Right arm Medium
+OA Shah,7bf96684,OA Shah,OA Shah,20123,594438,Right hand Bat,Right arm Offbreak
+S Narwal,287686fd,S Narwal,S Narwal,32084,,Left hand Bat,Right arm Medium
+BMAJ Mendis,9868bc75,BMAJ Mendis,BMAJ Mendis,49700,,Left hand Bat,Legbreak
+B Laughlin,b2a79f17,B Laughlin,B Laughlin,315623,,Right hand Bat,Right arm Fast medium
+DC Boon,e79a1fe3,DC Boon,DC Boon,4169,,Right hand Bat,Right arm Offbreak
+PA Reddy,2461eef2,PA Reddy,PA Reddy,376109,,Right hand Bat,Legbreak
+SW Tait,addfb70e,SW Tait,SW Tait,8076,,Right hand Bat,Right arm Fast
+R McLaren,c654af19,R McLaren,R McLaren,46393,,Left hand Bat,Right arm Medium fast
+KC Sangakkara,6b71e6cf,KC Sangakkara,KC Sangakkara,50710,,Left hand Bat,Right arm Offbreak
+A Chandila,99b202b3,A Chandila,A Chandila,27783,,Right hand Bat,Right arm Offbreak
+S Sreesanth,6b8eb6e5,S Sreesanth,S Sreesanth,34274,,Right hand Bat,Right arm Fast medium
+K Upadhyay,27e71d47,K Upadhyay,K Upadhyay,431876,,Right hand Bat,Right arm Medium
+M Rawat,de8d3876,M Rawat,M Rawat,33440,,Right hand Bat,
+UA Birla,91b9300b,UA Birla,UA Birla,262533,,Right hand Bat,Right arm Medium
+J Syed Mohammad,c64c2443,J Syed Mohammad,J Syed Mohammad,35261,,Left hand Bat,Slow Left arm Orthodox
+BAW Mendis,ea0cdc12,BAW Mendis,BAW Mendis,268739,,Right hand Bat,Right arm Offbreak
+A Mithun,66cf56a5,A Mithun,A Mithun,310958,,Right hand Bat,Right arm Medium
+Tapan Sharma,b9aa2b6e,Tapan Sharma,Tapan Sharma,390973,,Right hand Bat,Right arm Medium
+AB Agarkar,fa463154,AB Agarkar,AB Agarkar,26184,,Right hand Bat,Right arm Fast
+BA Bhatt,dc4686e6,BA Bhatt,BA Bhatt,433410,,Left hand Bat,Slow Left arm Orthodox
+Harmeet Singh,2a72fd4f,Harmeet Singh,Harmeet Singh,391128,,Right hand Bat,Right arm Medium
+LA Pomersbach,b63ab531,LA Pomersbach,LA Pomersbach,232284,,Left hand Bat,Right arm Offbreak
+MC Juneja,605b7efa,MC Juneja,MC Juneja,390480,,Right hand Bat,Right arm Offbreak
+SR Tendulkar,d2c2b2d5,SR Tendulkar,SR Tendulkar,35320,,Right hand Bat,"Right arm Offbreak, Legbreak Googly"
+DB Das,7050a1e7,DB Das,DB Das,328163,,Right hand Bat,Legbreak Googly
+PK Khakhar,b7cad41f,PK Khakhar,PK Khakhar,30072,,Right hand Bat,Slow Left arm Orthodox
+SMSM Senanayake,4c4fa80b,SMSM Senanayake,SMSM Senanayake,273439,,Right hand Bat,Right arm Offbreak
+RE van der Merwe,05c2ca46,RE van der Merwe,RE van der Merwe,47850,,Right hand Bat,Slow Left arm Orthodox
+AA Chavan,29d72eb2,AA Chavan,AA Chavan,337913,,Left hand Bat,Slow Left arm Orthodox
+KB Arun Karthik,7daedf2f,KB Arun Karthik,KB Arun Karthik,319745,,Right hand Bat,Legbreak Googly
+MG Neser,0164b064,MG Neser,MG Neser,376169,,Right hand Bat,Right arm Medium fast
+MS Gony,ae78bc32,MS Gony,MS Gony,317293,,Right hand Bat,Right arm Medium
+AC Gilchrist,2b6e6dec,AC Gilchrist,AC Gilchrist,5390,,Left hand Bat,Right arm Offbreak
+AG Murtaza,ef5da05c,AG Murtaza,AG Murtaza,26490,,Left hand Bat,Slow Left arm Orthodox
+B Chipli,5451a2c1,B Chipli,B Chipli,27685,,Right hand Bat,Right arm Medium
+BJ Rohrer,27af6414,BJ Rohrer,BJ Rohrer,7547,,Left hand Bat,
+DPMD Jayawardene,d18f9182,DPMD Jayawardene,DPMD Jayawardene,49289,,Right hand Bat,Right arm Medium
+LJ Wright,cca50cd6,LJ Wright,LJ Wright,23460,,Right hand Bat,Right arm Medium
+RV Gomez,b2570b38,RV Gomez,RV Gomez,28846,,Right hand Bat,Right arm Medium
+S Das,475e38b6,S Das,S Das,515928,,,
+Anand Rajan,d2340a43,Anand Rajan,Anand Rajan,26797,,Right hand Bat,Right arm Medium
+Asad Rauf,861606b7,Asad Rauf,Asad Rauf,39219,,Right hand Bat,Right arm Offbreak
+P Dogra,2728e7e9,P Dogra,P Dogra,28160,,Right hand Bat,Legbreak
+Raju Mukherjee,7a3244b5,Raju Mukherjee,Raju Mukherjee,31727,,Right hand Bat,
+S Asnani,b04524bc,S Asnani,S Asnani,26314,,,
+MM Patel,f0f628c7,MM Patel,MM Patel,32965,,Right hand Bat,Right arm Medium fast
+BB Samantray,53f27a35,BB Samantray,BB Samantray,430125,,Right hand Bat,Right arm Medium
+CL White,d0513f63,CL White,CL White,8291,,Right hand Bat,Legbreak Googly
+R Dravid,0184dc35,R Dravid,R Dravid,28114,,Right hand Bat,Right arm Offbreak
+SK Trivedi,3d7e087f,SK Trivedi,SK Trivedi,35353,,Right hand Bat,Right arm Medium
+S Badrinath,3576e47e,S Badrinath,S Badrinath,26806,,Right hand Bat,Right arm Offbreak
+SJA Taufel,4b43d5ac,SJA Taufel,SJA Taufel,7918,,,
+AV Wankhade,5708d0b6,AV Wankhade,AV Wankhade,505773,,Right hand Bat,Right arm Medium
+BF Bowden,efc0a862,BF Bowden,BF Bowden,36339,,,
+Aleem Dar,f02778d1,Aleem Dar,Aleem Dar,39157,,Right hand Bat,Legbreak
+CA Pujara,d4f9dbd4,CA Pujara,CA Pujara,32540,,Right hand Bat,Legbreak
+R Sharma,5d9a1a73,R Sharma,R Sharma,272994,,Right hand Bat,Legbreak Googly
+SS Hazare,166e5081,SS Hazare,SS Hazare,29400,,Right hand Bat,Legbreak Googly
+M Kartik,abfeb126,M Kartik,M Kartik,30049,,Left hand Bat,Slow Left arm Orthodox
+LR Shukla,b1451597,LR Shukla,LR Shukla,34019,,Right hand Bat,Right arm Medium
+JH Kallis,86dc8f2e,JH Kallis,JH Kallis,45789,,Right hand Bat,Right arm Fast medium
+DH Yagnik,063b3673,DH Yagnik,DH Yagnik,36071,,Left hand Bat,
+LRPL Taylor,b61a3e1a,LRPL Taylor,LRPL Taylor,38699,,Right hand Bat,Right arm Offbreak
+R Shukla,de4b0555,R Shukla,R Shukla,390547,,Right hand Bat,Right arm Medium
+BW Hilfenhaus,f3171936,BW Hilfenhaus,BW Hilfenhaus,5941,,Right hand Bat,Right arm Fast medium
+K Santokie,531f0278,K Santokie,K Santokie,314622,,Left hand Bat,Left arm Medium
+M Muralitharan,4ba44e19,M Muralitharan,M Muralitharan,49636,,Right hand Bat,Right arm Offbreak
+J Madanagopal,8275b04a,J Madanagopal,J Madanagopal,31282,,Right hand Bat,Right arm Offbreak
+S Kaul,dcf81436,S Kaul,S Kaul,326017,,Right hand Bat,Right arm Medium
+WD Parnell,3a60e0b5,WD Parnell,WD Parnell,265564,,Left hand Bat,Left arm Medium fast
+VS Malik,5f26df4f,VS Malik,VS Malik,31738,,Right hand Bat,Right arm Medium
+M Manhas,c42aaf71,M Manhas,M Manhas,31001,,Right hand Bat,Right arm Offbreak
+R Rampaul,d68e7f48,R Rampaul,R Rampaul,52912,,Left hand Bat,Right arm Fast medium
+S Badree,76388dc8,S Badree,S Badree,51433,,Right hand Bat,Legbreak
+S Rana,90edaaa9,S Rana,S Rana,33757,1345201,Right hand Bat,Right arm Medium fast
+VH Zol,6dbcf855,VH Zol,VH Zol,554699,,Left hand Bat,Right arm Offbreak
+YV Takawale,4e04666c,YV Takawale,YV Takawale,35357,,Right hand Bat,
+S Anirudha,95a2ea61,S Anirudha,S Anirudha,26798,,Right hand Bat,
+Y Venugopal Rao,fe763256,Y Venugopal Rao,Y Venugopal Rao,35805,,Right hand Bat,Right arm Offbreak
+JDS Neesham,9219eff0,JDS Neesham,JDS Neesham,355269,,Left hand Bat,Right arm Medium fast
+UV Gandhe,43dd4011,UV Gandhe,UV Gandhe,28768,,Right hand Bat,Right arm Offbreak
+AM Nayar,a45a5e8d,AM Nayar,AM Nayar,32091,,Left hand Bat,Right arm Medium
+BJ Hodge,b57f8a9a,BJ Hodge,BJ Hodge,5674,,Right hand Bat,Right arm Offbreak
+KK Cooper,557153ca,KK Cooper,KK Cooper,371814,,Right hand Bat,Right arm Medium
+NJ Llong,573fb985,NJ Llong,NJ Llong,16314,,Left hand Bat,Right arm Offbreak
+AJ Pycroft,685d3f80,AJ Pycroft,AJ Pycroft,55700,,Right hand Bat,Right arm Offbreak
+BR Dunk,272d796e,BR Dunk,BR Dunk,388678,,Left hand Bat,Right arm Offbreak
+DJ Hussey,fd835ab3,DJ Hussey,DJ Hussey,5766,,Right hand Bat,Right arm Offbreak
+L Balaji,b2b50355,L Balaji,L Balaji,26829,,Right hand Bat,Right arm Medium fast
+P Awana,1a0c3177,P Awana,P Awana,323131,,Right hand Bat,Right arm Medium
+PP Ojha,6c6591ab,PP Ojha,PP Ojha,32130,,Left hand Bat,Slow Left arm Orthodox
+CM Gautam,30a2649b,CM Gautam,CM Gautam,302208,,Right hand Bat,
+DJG Sammy,c03c6200,DJG Sammy,DJG Sammy,53115,,Right hand Bat,Right arm Medium
+SA Abbott,1a2676c5,SA Abbott,SA Abbott,398666,,Right hand Bat,Right arm Fast medium
+CJ Anderson,8abdf100,CJ Anderson,CJ Anderson,277662,,Left hand Bat,Left arm Medium fast
+P Suyal,cedc1d9a,P Suyal,P Suyal,431213,,Right hand Bat,Left arm Medium
+AN Ahmed,2af1b6d2,AN Ahmed,AN Ahmed,228430,,Right hand Bat,Right arm Medium fast
+R Tewatia,39a2dfa8,R Tewatia,R Tewatia,423838,,Left hand Bat,Legbreak
+Shivam Sharma,6f49cc6e,Shivam Sharma,Shivam Sharma,717201,,Right hand Bat,Right arm Offbreak
+MS Bisla,5afd4539,MS Bisla,MS Bisla,27280,,Right hand Bat,
+RR Rossouw,cad00a4d,RR Rossouw,RR Rossouw,318845,,Left hand Bat,Right arm Offbreak
+DJ Muthuswami,2c76b512,DJ Muthuswami,DJ Muthuswami,528985,,Right hand Bat,Right arm Medium
+GF Labrooy,8e088dbc,GF Labrooy,GF Labrooy,49552,,Right hand Bat,Right arm Fast medium
+SD Fry,6b725ed1,SD Fry,SD Fry,5341,,,
+MK Tiwary,26e5cabf,MK Tiwary,MK Tiwary,35565,,Right hand Bat,Legbreak Googly
+SN Thakur,1abb78f8,SN Thakur,SN Thakur,475281,,Right hand Bat,Right arm Medium
+J Theron,dec8e038,J Theron,J Theron,223642,,Right hand Bat,Right arm Medium fast
+PJ Cummins,ded9240e,PJ Cummins,PJ Cummins,489889,,Right hand Bat,Right arm Fast
+B Aparajith,5b627626,B Aparajith,B Aparajith,477071,,Right hand Bat,Right arm Offbreak
+RG More,b2b23612,RG More,RG More,424219,,Right hand Bat,Right arm Medium
+V Sehwag,8ba8195d,V Sehwag,V Sehwag,35263,,Right hand Bat,Right arm Offbreak
+NJ Maddinson,44afbf2d,NJ Maddinson,NJ Maddinson,333780,,Left hand Bat,Slow Left arm Orthodox
+RN ten Doeschate,4ec07775,RN ten Doeschate,RN ten Doeschate,47660,,Right hand Bat,Right arm Medium fast
+Karanveer Singh,1647bd37,Karanveer Singh,Karanveer Singh,322535,,Right hand Bat,Legbreak Googly
+GH Vihari,94253925,GH Vihari,GH Vihari,452044,,Right hand Bat,Right arm Offbreak
+M de Lange,d4eef961,M de Lange,M de Lange,393279,,Right hand Bat,Right arm Fast
+J Botha,7c503806,J Botha,J Botha,44149,,Right hand Bat,Right arm Offbreak
+RS Bopara,7ca5e05d,RS Bopara,RS Bopara,10582,,Right hand Bat,Right arm Medium
+BE Hendricks,b56dc5f7,BE Hendricks,BE Hendricks,379927,,Left hand Bat,Left arm Fast medium
+IC Pandey,e0407c01,IC Pandey,IC Pandey,447439,,Right hand Bat,Right arm Medium
+JD Cloete,b0419f8c,JD Cloete,JD Cloete,44449,,,
+Azhar Mahmood,9a158001,Azhar Mahmood,Azhar Mahmood,39024,,Right hand Bat,Right arm Fast medium
+RM Deshpande,7d2a4250,RM Deshpande,RM Deshpande,262599,,,
+RR Jadeja,053de19b,RR Jadeja,RR Jadeja,29831,,Right hand Bat,Right arm Fast medium
+AD Mathews,896d78ad,AD Mathews,AD Mathews,49764,,Right hand Bat,Right arm Medium
+GS Sandhu,1558d83b,GS Sandhu,GS Sandhu,499660,,Left hand Bat,Right arm Fast medium
+K Srinivasan,042a8b69,K Srinivasan,K Srinivasan,34685,,Right hand Bat,Right arm Offbreak
+PG Pathak,9f772ec5,PG Pathak,PG Pathak,390895,,,
+K Srinath,8ab5da97,K Srinath,K Srinath,34243,,Right hand Bat,Right arm Offbreak
+MA Starc,3fb19989,MA Starc,MA Starc,311592,,Left hand Bat,Left arm Fast
+MEK Hussey,48fd7349,MEK Hussey,MEK Hussey,5939,,Left hand Bat,Right arm Medium
+RK Illingworth,20672246,RK Illingworth,RK Illingworth,15383,,Right hand Bat,Slow Left arm Orthodox
+SL Malinga,a12e1d51,SL Malinga,SL Malinga,49758,,Right hand Bat,Right arm Fast
+LMP Simmons,89f64c19,LMP Simmons,LMP Simmons,53116,,Right hand Bat,Right arm Medium fast
+S Gopal,7a8bd078,S Gopal,S Gopal,344580,,Right hand Bat,Legbreak
+S Ladda,fb693839,S Ladda,S Ladda,317292,,Right hand Bat,Legbreak
+AF Milne,350bb1b1,AF Milne,AF Milne,450860,,Right hand Bat,Right arm Fast
+J Suchith,4125d931,J Suchith,J Suchith,527663,,Left hand Bat,Slow Left arm Orthodox
+JW Hastings,012829ff,JW Hastings,JW Hastings,228622,,Right hand Bat,Right arm Fast medium
+D Wiese,aa8d28ae,D Wiese,D Wiese,221140,,Right hand Bat,Right arm Medium fast
+VA Kulkarni,8fe0c4f8,VA Kulkarni,VA Kulkarni,391584,,,
+DW Steyn,8fd1a8f5,DW Steyn,DW Steyn,47492,,Right hand Bat,Right arm Fast
+I Sharma,5bb1a1c4,I Sharma,I Sharma,236779,,Right hand Bat,Right arm Fast medium
+KP Pietersen,39f01cdb,KP Pietersen,KP Pietersen,19296,,Right hand Bat,Right arm Offbreak
+Mandeep Singh,c3a96caf,Mandeep Singh,Mandeep Singh,398506,,Right hand Bat,Right arm Medium
+SN Khan,f088b960,SN Khan,SN Khan,642525,,Right hand Bat,Legbreak
+Ankit Sharma,24d94623,Ankit Sharma,Ankit Sharma,422992,,Left hand Bat,Slow Left arm Orthodox
+MG Johnson,f5180fe6,MG Johnson,MG Johnson,6033,,Left hand Bat,Left arm Fast
+NS Naik,aedc3b7c,NS Naik,NS Naik,554700,,Right hand Bat,
+P Sahu,9a0146b3,P Sahu,P Sahu,34155,,Right hand Bat,Legbreak Googly
+AP Tare,855a210c,AP Tare,AP Tare,333904,,Right hand Bat,
+F du Plessis,3355b542,F du Plessis,F du Plessis,44828,,Right hand Bat,Legbreak
+MR Marsh,3d8feaf8,MR Marsh,MR Marsh,272450,,Right hand Bat,Right arm Medium
+JD Unadkat,1e66c162,JD Unadkat,JD Unadkat,390484,,Right hand Bat,Left arm Medium
+JA Morkel,c3d35165,JA Morkel,JA Morkel,46248,,Left hand Bat,Right arm Medium fast
+A Ashish Reddy,1c2a64cd,A Ashish Reddy,A Ashish Reddy,389605,,Right hand Bat,Right arm Medium
+HV Patel,f986ca1a,HV Patel,HV Patel,390481,,Right hand Bat,Right arm Medium
+KM Jadhav,99d63244,KM Jadhav,KM Jadhav,290716,,Right hand Bat,Right arm Offbreak
+KW Richardson,dfc4d8b5,KW Richardson,KW Richardson,272262,,Right hand Bat,Right arm Fast medium
+SE Marsh,508a1ea7,SE Marsh,SE Marsh,6683,,Left hand Bat,Slow Left arm Orthodox
+PSP Handscomb,ada15e88,PSP Handscomb,PSP Handscomb,334337,,Right hand Bat,
+SPD Smith,30a45b23,SPD Smith,SPD Smith,267192,,Right hand Bat,Legbreak Googly
+CA Lynn,45eda7c8,CA Lynn,CA Lynn,326637,,Right hand Bat,Slow Left arm Orthodox
+T Shamsi,a03bba42,T Shamsi,T Shamsi,379145,,Right hand Bat,Left arm Wrist spin
+Ishan Kishan,752f7486,Ishan Kishan,Ishan Kishan,720471,,Left hand Bat,
+JP Faulkner,808f425a,JP Faulkner,JP Faulkner,270484,,Right hand Bat,Left arm Fast medium
+M Vohra,c03e2850,M Vohra,M Vohra,532856,,Right hand Bat,Right arm Medium
+Swapnil Singh,983f2f61,Swapnil Singh,Swapnil Singh,232292,,Right hand Bat,Slow Left arm Orthodox
+SM Boland,d167edd3,SM Boland,SM Boland,446548,,Right hand Bat,Right arm Fast medium
+PJ Sangwan,9fc0ef64,PJ Sangwan,PJ Sangwan,279545,,Right hand Bat,Left arm Medium
+Parvez Rasool,9170ff49,Parvez Rasool,Parvez Rasool,378496,,Right hand Bat,Right arm Offbreak
+S Ravi,9b9ee0df,S Ravi,S Ravi,33135,,,
+GB Hogg,f708a0bc,GB Hogg,GB Hogg,5681,,Left hand Bat,Left arm Wrist spin
+UT Yadav,cc1e8c68,UT Yadav,UT Yadav,376116,,Right hand Bat,Right arm Fast
+TM Head,12b610c2,TM Head,TM Head,530011,,Left hand Bat,Right arm Offbreak
+R Bhatia,33a364a6,R Bhatia,R Bhatia,26907,,Right hand Bat,Right arm Medium fast
+RP Singh,c3d1402f,RP Singh,RP Singh,35280,,Right hand Bat,Left arm Fast medium
+PA Patel,b5da6c24,PA Patel,PA Patel,32242,,Left hand Bat,Right arm Offbreak
+RJ Tucker,38810cfc,RJ Tucker,RJ Tucker,7986,,Left hand Bat,Right arm Medium
+TG Southee,13c35c9e,TG Southee,TG Southee,232364,,Right hand Bat,Right arm Medium fast
+UBT Chand,0c94f480,UBT Chand,UBT Chand,446499,,Right hand Bat,Right arm Offbreak
+AD Nath,f10e94c4,AD Nath,AD Nath,500360,,Right hand Bat,Right arm Medium fast
+PV Tambe,6aed7e79,PV Tambe,PV Tambe,587152,,Right hand Bat,Legbreak
+M Ashwin,e2db2409,M Ashwin,M Ashwin,528067,,Right hand Bat,Legbreak Googly
+A Nehra,96fd40ae,A Nehra,A Nehra,31820,,Right hand Bat,Left arm Medium fast
+Anureet Singh,69be866a,Anureet Singh,Anureet Singh,376324,,Right hand Bat,Right arm Medium
+GJ Maxwell,b681e71e,GJ Maxwell,GJ Maxwell,325026,,Right hand Bat,Right arm Offbreak
+MP Stoinis,d9273ee7,MP Stoinis,MP Stoinis,325012,,Right hand Bat,Right arm Medium
+AT Rayudu,70d205c9,AT Rayudu,AT Rayudu,33141,,Right hand Bat,Right arm Offbreak
+Amit Sharma,7ea3e0cc,Amit Sharma,Amit Sharma,34228,,Right hand Bat,Right arm Offbreak
+Imran Tahir,acee4cc4,Imran Tahir,Imran Tahir,40618,,Right hand Bat,Legbreak Googly
+MA Agarwal,00ea847a,MA Agarwal,MA Agarwal,398438,,Right hand Bat,Right arm Offbreak
+S Nadeem,9d80c5e1,S Nadeem,S Nadeem,31872,,Right hand Bat,Slow Left arm Orthodox
+AD Russell,bbd41817,AD Russell,AD Russell,276298,,Right hand Bat,Right arm Fast
+CB Gaffaney,d5ac41d8,CB Gaffaney,CB Gaffaney,37097,,Right hand Bat,
+Mohammed Shami,8cf9814c,Mohammed Shami,Mohammed Shami,481896,,Right hand Bat,Right arm Fast
+SS Iyer,85ec8e33,SS Iyer,SS Iyer,642519,,Right hand Bat,"Right arm Offbreak, Legbreak Googly"
+KC Cariappa,edb3d4f8,KC Cariappa,KC Cariappa,777537,,Right hand Bat,Legbreak
+M Nayyar,b7bccddb,M Nayyar,M Nayyar,31909,,Right hand Bat,Right arm Offbreak
+VR Aaron,0a3d54b9,VR Aaron,VR Aaron,360911,,Right hand Bat,Right arm Fast
+PP Chawla,98ae73b1,PP Chawla,PP Chawla,32966,,Left hand Bat,Legbreak
+EJG Morgan,d2a6c0e6,EJG Morgan,EJG Morgan,24598,,Left hand Bat,Right arm Medium
+JP Duminy,2e8994e7,JP Duminy,JP Duminy,44932,,Left hand Bat,Right arm Offbreak
+NM Coulter-Nile,56ab442f,NM Coulter-Nile,NM Coulter-Nile,261354,,Right hand Bat,Right arm Fast
+S Chaturvedi,c8ec02e1,S Chaturvedi,S Chaturvedi,27791,,Right hand Bat,
+A Zampa,14f96089,A Zampa,A Zampa,379504,,Right hand Bat,Legbreak Googly
+AB Dinda,66b30f71,AB Dinda,AB Dinda,227712,,Right hand Bat,Right arm Medium fast
+AM Rahane,29e95537,AM Rahane,AM Rahane,277916,,Right hand Bat,Right arm Medium
+AR Patel,2e171977,AR Patel,AR Patel,554691,,Left hand Bat,Slow Left arm Orthodox
+DA Miller,d67d5f00,DA Miller,DA Miller,321777,,Left hand Bat,Right arm Offbreak
+DL Chahar,23eeb873,DL Chahar,DL Chahar,447261,,Right hand Bat,Right arm Medium
+F Behardien,dce2019b,F Behardien,F Behardien,44410,,Right hand Bat,Right arm Fast medium
+GJ Bailey,5056011d,GJ Bailey,GJ Bailey,4451,,Right hand Bat,Right arm Medium
+Gurkeerat Singh,6eb146d2,Gurkeerat Singh,Gurkeerat Singh,537124,,Right hand Bat,Right arm Offbreak
+HM Amla,e798611a,HM Amla,HM Amla,43906,,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+IK Pathan,5fa06777,IK Pathan,IK Pathan,32685,,Left hand Bat,Left arm Medium fast
+KJ Abbott,a9da7784,KJ Abbott,KJ Abbott,297583,,Right hand Bat,Right arm Fast medium
+M Vijay,4b57e452,M Vijay,M Vijay,237095,,Right hand Bat,Right arm Offbreak
+MM Sharma,759ac88f,MM Sharma,MM Sharma,537119,,Right hand Bat,Right arm Medium
+MS Dhoni,4a8a2e3b,MS Dhoni,MS Dhoni,28081,,Right hand Bat,Right arm Medium
+NLTC Perera,0f12f9df,NLTC Perera,NLTC Perera,233514,,Left hand Bat,Right arm Medium fast
+Nitin Menon,e1d41d9e,Nitin Menon,Nitin Menon,30988,340046,Right hand Bat,
+R Ashwin,495d42a5,R Ashwin,R Ashwin,26421,,Right hand Bat,Right arm Offbreak
+R Dhawan,26a85969,R Dhawan,R Dhawan,290727,,Right hand Bat,Right arm Medium fast
+SS Tiwary,709b0bac,SS Tiwary,SS Tiwary,35390,,Left hand Bat,
+Sandeep Sharma,ce820073,Sandeep Sharma,Sandeep Sharma,438362,,Right hand Bat,Right arm Medium
+UT Khawaja,331ea488,UT Khawaja,UT Khawaja,215155,,Left hand Bat,Right arm Medium
+WP Saha,fe11caa6,WP Saha,WP Saha,279810,,Right hand Bat,
+AY Dandekar,2efc430e,AY Dandekar,AY Dandekar,27986,,,
+HH Pandya,dbe50b21,HH Pandya,HH Pandya,625371,,Right hand Bat,Right arm Medium fast
+Harbhajan Singh,8b5b6769,Harbhajan Singh,Harbhajan Singh,29264,,Right hand Bat,Right arm Offbreak
+JC Buttler,99b75528,JC Buttler,JC Buttler,308967,,Right hand Bat,
+JJ Bumrah,462411b3,JJ Bumrah,JJ Bumrah,625383,,Right hand Bat,Right arm Fast
+KA Pollard,a757b0d8,KA Pollard,KA Pollard,230559,,Right hand Bat,Right arm Medium
+KH Pandya,5b8c830e,KH Pandya,KH Pandya,471342,,Left hand Bat,Slow Left arm Orthodox
+MJ Guptill,2be41edb,MJ Guptill,MJ Guptill,226492,,Right hand Bat,Right arm Offbreak
+MJ McClenaghan,51a3c5ef,MJ McClenaghan,MJ McClenaghan,319439,,Left hand Bat,Left arm Fast medium
+N Rana,fb2d1dda,N Rana,N Rana,604527,,Left hand Bat,"Right arm Medium, Right arm Offbreak"
+R Pandit,8a604384,R Pandit,R Pandit,537232,,,
+R Vinay Kumar,41eb4a4f,R Vinay Kumar,R Vinay Kumar,35731,,Right hand Bat,Right arm Medium
+RG Sharma,740742ef,RG Sharma,RG Sharma,34102,,Right hand Bat,Right arm Offbreak
+AS Rajpoot,db31895a,AS Rajpoot,AS Rajpoot,591650,,Right hand Bat,Right arm Medium
+J Srinath,bad31fac,J Srinath,J Srinath,34105,,Right hand Bat,Right arm Fast medium
+K Bharatan,7e47c743,K Bharatan,K Bharatan,27190,,Right hand Bat,Right arm Offbreak
+KN Ananthapadmanabhan,3144063a,KN Ananthapadmanabhan,KN Ananthapadmanabhan,26241,,Right hand Bat,Legbreak Googly
+KS Williamson,d027ba9f,KS Williamson,KS Williamson,277906,,Right hand Bat,Right arm Offbreak
+KV Sharma,119678fd,KV Sharma,KV Sharma,30288,,Left hand Bat,Legbreak Googly
+Shakib Al Hasan,7dc35884,Shakib Al Hasan,Shakib Al Hasan,56143,,Left hand Bat,Slow Left arm Orthodox
+A Mishra,6b19d823,A Mishra,A Mishra,31107,,Right hand Bat,Legbreak
+A Nand Kishore,84424f4f,A Nand Kishore,A Nand Kishore,31917,,Right hand Bat,Right arm Medium
+CH Morris,fb66ce1f,CH Morris,CH Morris,439952,,Right hand Bat,Right arm Fast medium
+CR Brathwaite,e342e5fb,CR Brathwaite,CR Brathwaite,457249,,Right hand Bat,Right arm Fast medium
+Chinmay Sharma,83250fea,Chinmay Sharma,Chinmay Sharma,34631,,Right hand Bat,Right arm Medium
+J Yadav,81049310,J Yadav,J Yadav,447587,,Right hand Bat,Right arm Offbreak
+KK Nair,944533a5,KK Nair,KK Nair,398439,,Right hand Bat,Right arm Offbreak
+P Negi,f62772e5,P Negi,P Negi,530773,,Left hand Bat,Slow Left arm Orthodox
+Q de Kock,372455c4,Q de Kock,Q de Kock,379143,,Left hand Bat,
+RR Pant,919a3be2,RR Pant,RR Pant,931581,,Left hand Bat,
+SV Samson,a4cc73aa,SV Samson,SV Samson,425943,,Right hand Bat,
+SW Billings,c16d4035,SW Billings,SW Billings,297628,,Right hand Bat,
+VK Sharma,a7a49df4,VK Sharma,VK Sharma,33933,,Right hand Bat,
+YC Barde,b90f3346,YC Barde,YC Barde,26861,,Right hand Bat,Right arm Medium
+Z Khan,91a4a398,Z Khan,Z Khan,30102,,Right hand Bat,Left arm Fast medium
+SB Jakati,c8179c68,SB Jakati,SB Jakati,29655,,Left hand Bat,Slow Left arm Orthodox
+C Munro,af2c687b,C Munro,C Munro,232359,,Left hand Bat,Right arm Medium fast
+G Gambhir,bb345e0b,G Gambhir,G Gambhir,28763,,Left hand Bat,Legbreak
+JO Holder,0f721006,JO Holder,JO Holder,391485,,Right hand Bat,Right arm Medium fast
+Kuldeep Yadav,8d2c70ad,Kuldeep Yadav,Kuldeep Yadav,559235,,Left hand Bat,Left arm Wrist spin
+M Morkel,5bb5a915,M Morkel,M Morkel,46538,,Left hand Bat,Right arm Fast
+MK Pandey,93b4fc78,MK Pandey,MK Pandey,290630,,Right hand Bat,Right arm Medium
+R Sathish,626c5379,R Sathish,R Sathish,33870,,Right hand Bat,Right arm Medium
+RV Uthappa,1c17e270,RV Uthappa,RV Uthappa,35582,,Right hand Bat,Right arm Medium
+SA Yadav,271f83cd,SA Yadav,SA Yadav,446507,,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+SP Narine,9d430b40,SP Narine,SP Narine,230558,,Left hand Bat,Right arm Offbreak
+V Shankar,0994d0ae,V Shankar,V Shankar,477021,,Right hand Bat,Right arm Medium
+YK Pathan,3c6ffae8,YK Pathan,YK Pathan,32498,,Right hand Bat,Right arm Offbreak
+AJ Finch,b8d490fd,AJ Finch,AJ Finch,5334,,Right hand Bat,Slow Left arm Orthodox
+BB McCullum,b8a55852,BB McCullum,BB McCullum,37737,,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+C Shamshuddin,0f9d921b,C Shamshuddin,C Shamshuddin,340535,,,
+CK Nandan,012de9c4,CK Nandan,CK Nandan,31919,,,
+DJ Bravo,87e562a9,DJ Bravo,DJ Bravo,51439,,Right hand Bat,Right arm Medium
+DR Smith,35205dfc,DR Smith,DR Smith,53118,,Right hand Bat,Right arm Medium
+DS Kulkarni,d2a989fc,DS Kulkarni,DS Kulkarni,277955,,Right hand Bat,Right arm Medium
+ER Dwivedi,b274dbbd,ER Dwivedi,ER Dwivedi,340841,,Right hand Bat,
+KD Karthik,c03f1114,KD Karthik,KD Karthik,30045,,Right hand Bat,Right arm Offbreak
+M Erasmus,15d3c895,M Erasmus,M Erasmus,44971,,Right hand Bat,Right arm Fast medium
+Navdeep Singh,a3e3d8a4,Navdeep Singh,Navdeep Singh,31805,,Right hand Bat,Slow Left arm Orthodox
+P Kumar,e938e1bc,P Kumar,P Kumar,30732,,Right hand Bat,Right arm Medium
+RA Jadeja,fe93fd9d,RA Jadeja,RA Jadeja,234675,,Left hand Bat,Slow Left arm Orthodox
+RS Mahanama,57910393,RS Mahanama,RS Mahanama,49626,,Right hand Bat,
+S Kaushik,1da489ff,S Kaushik,S Kaushik,917213,,Right hand Bat,Left arm Wrist spin
+SK Raina,1dc12ab9,SK Raina,SK Raina,33335,,Left hand Bat,Right arm Offbreak
+TA Boult,a818c1be,TA Boult,TA Boult,277912,,Right hand Bat,Left arm Fast medium
+A Deshmukh,6fda55cc,A Deshmukh,A Deshmukh,412593,,,
+AB de Villiers,c4487b84,AB de Villiers,AB de Villiers,44936,,Right hand Bat,Right arm Medium
+AK Chaudhary,fdcc6236,AK Chaudhary,AK Chaudhary,265839,,,
+B Kumar,2e81a32d,B Kumar,B Kumar,326016,,Right hand Bat,Right arm Medium
+BB Sran,d8b2f218,BB Sran,BB Sran,537126,,Left hand Bat,Left arm Medium
+BCJ Cutting,2e11c706,BCJ Cutting,BCJ Cutting,230371,,Right hand Bat,Right arm Fast medium
+BNJ Oxenford,c1add349,BNJ Oxenford,BNJ Oxenford,7029,,Right hand Bat,Legbreak Googly
+Bipul Sharma,c18496e1,Bipul Sharma,Bipul Sharma,35928,,Left hand Bat,Slow Left arm Orthodox
+CH Gayle,db584dad,CH Gayle,CH Gayle,51880,,Left hand Bat,Right arm Offbreak
+CJ Jordan,ffe699c0,CJ Jordan,CJ Jordan,288992,,Right hand Bat,Right arm Fast medium
+DA Warner,dcce6f09,DA Warner,DA Warner,219889,,Left hand Bat,Legbreak
+DJ Hooda,73ad96ed,DJ Hooda,DJ Hooda,497121,,Right hand Bat,Right arm Offbreak
+HDPK Dharmasena,323e4c16,HDPK Dharmasena,HDPK Dharmasena,48469,,Right hand Bat,Right arm Offbreak
+Iqbal Abdulla,85aae393,Iqbal Abdulla,Iqbal Abdulla,277237,,Left hand Bat,Slow Left arm Orthodox
+KL Rahul,b17e2f24,KL Rahul,KL Rahul,422108,,Right hand Bat,
+MC Henriques,32198ae0,MC Henriques,MC Henriques,5961,,Right hand Bat,Right arm Fast medium
+Mustafizur Rahman,0a8fce53,Mustafizur Rahman,Mustafizur Rahman,330902,,Left hand Bat,Left arm Fast medium
+NV Ojha,890946a0,NV Ojha,NV Ojha,32102,,Right hand Bat,
+RS Madugalle,766b5798,RS Madugalle,RS Madugalle,49623,,Right hand Bat,Right arm Offbreak
+S Aravind,957532de,S Aravind,S Aravind,290632,,Left hand Bat,Left arm Medium fast
+S Dhawan,0a476045,S Dhawan,S Dhawan,28235,,Left hand Bat,Right arm Offbreak
+SR Watson,4329fbb5,SR Watson,SR Watson,8180,,Right hand Bat,Right arm Fast medium
+STR Binny,bd17b45f,STR Binny,STR Binny,27223,,Right hand Bat,Right arm Medium
+Sachin Baby,dc9dd038,Sachin Baby,Sachin Baby,432783,,Left hand Bat,Right arm Offbreak
+V Kohli,ba607b88,V Kohli,V Kohli,253802,,Right hand Bat,Right arm Medium
+YS Chahal,57ee1fde,YS Chahal,YS Chahal,430246,,Right hand Bat,Legbreak Googly
+Yuvraj Singh,1c914163,Yuvraj Singh,Yuvraj Singh,36084,,Left hand Bat,Slow Left arm Orthodox
